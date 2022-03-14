@@ -119,9 +119,9 @@ Los tests pueden realizarse utilizando Mocha + Chai.
 ## Instalación
 
 ```
-git clone 
+git clone https://github.com/juanlavallen/Challenge_Backend.git
 
-cd nombre
+cd disney-app
 
 npm install
 
